@@ -21,7 +21,7 @@ public class PasswordReader {
             logging(e.getMessage());
             return false;
         }
-        logging("All is fine");
+        logging("Everything is fine");
         return true;
     }
 
